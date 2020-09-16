@@ -1,4 +1,4 @@
-baseURL = "posts.ryanplyler.dev"
+baseURL = "https://posts.ryanplyler.dev/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Ryan's Ramblings"

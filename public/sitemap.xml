@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>posts.ryanplyler.dev/</loc>
+    <loc>https://posts.ryanplyler.dev/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/about/</loc>
+    <loc>https://posts.ryanplyler.dev/about/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/tags/bash/</loc>
+    <loc>https://posts.ryanplyler.dev/tags/bash/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/categories/</loc>
+    <loc>https://posts.ryanplyler.dev/categories/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/tags/networking/</loc>
+    <loc>https://posts.ryanplyler.dev/tags/networking/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/categories/networking/</loc>
+    <loc>https://posts.ryanplyler.dev/categories/networking/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/post/</loc>
+    <loc>https://posts.ryanplyler.dev/post/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/tags/security/</loc>
+    <loc>https://posts.ryanplyler.dev/tags/security/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/tags/shell/</loc>
+    <loc>https://posts.ryanplyler.dev/tags/shell/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/tags/ssh/</loc>
+    <loc>https://posts.ryanplyler.dev/tags/ssh/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/post/ssh_tunneling/</loc>
+    <loc>https://posts.ryanplyler.dev/post/ssh_tunneling/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/tags/</loc>
+    <loc>https://posts.ryanplyler.dev/tags/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/archives/</loc>
+    <loc>https://posts.ryanplyler.dev/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>posts.ryanplyler.dev/tags/index/</loc>
+    <loc>https://posts.ryanplyler.dev/tags/index/</loc>
   </url>
   
 </urlset>

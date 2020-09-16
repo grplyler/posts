@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan&#39;s Ramblings</title>
-    <link>posts.ryanplyler.dev/</link>
+    <link>https://posts.ryanplyler.dev/</link>
     <description>Recent content on Ryan&#39;s Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="posts.ryanplyler.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://posts.ryanplyler.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>posts.ryanplyler.dev/about/</link>
+      <link>https://posts.ryanplyler.dev/about/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>posts.ryanplyler.dev/about/</guid>
+      <guid>https://posts.ryanplyler.dev/about/</guid>
       <description>Hi There! My name is Ryan Plyler, and I love building internet things.</description>
     </item>
     
     <item>
       <title>SSH Tunneling</title>
-      <link>posts.ryanplyler.dev/post/ssh_tunneling/</link>
+      <link>https://posts.ryanplyler.dev/post/ssh_tunneling/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>posts.ryanplyler.dev/post/ssh_tunneling/</guid>
+      <guid>https://posts.ryanplyler.dev/post/ssh_tunneling/</guid>
       <description>SSH Tunneling (Port Fowarding) AKA, Poor-mans VPN Method
 Use Case</description>
     </item>
     
     <item>
       <title></title>
-      <link>posts.ryanplyler.dev/archives/</link>
+      <link>https://posts.ryanplyler.dev/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>posts.ryanplyler.dev/archives/</guid>
+      <guid>https://posts.ryanplyler.dev/archives/</guid>
       <description></description>
     </item>
     

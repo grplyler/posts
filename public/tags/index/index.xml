@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Ryan&#39;s Ramblings</title>
-    <link>posts.ryanplyler.dev/tags/index/</link>
+    <link>https://posts.ryanplyler.dev/tags/index/</link>
     <description>Recent content in index on Ryan&#39;s Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="posts.ryanplyler.dev/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://posts.ryanplyler.dev/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>posts.ryanplyler.dev/post/</link>
+      <link>https://posts.ryanplyler.dev/post/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>posts.ryanplyler.dev/post/</guid>
+      <guid>https://posts.ryanplyler.dev/post/</guid>
       <description></description>
     </item>
     
