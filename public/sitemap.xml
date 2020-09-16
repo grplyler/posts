@@ -23,12 +23,47 @@
   </url>
   
   <url>
+    <loc>https://posts.ryanplyler.dev/tags/configuration/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/tags/fastcgi/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/categories/howto/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/post/php74_debian_ubuntu/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://posts.ryanplyler.dev/tags/networking/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://posts.ryanplyler.dev/categories/networking/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/tags/nginx/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/tags/php/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/tags/php-fpm/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,8 +93,38 @@
   </url>
   
   <url>
+    <loc>https://posts.ryanplyler.dev/categories/stacks/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/categories/sysadmin/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://posts.ryanplyler.dev/tags/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/tags/webserver/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/tags/nodejs/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/post/discord_bot_tmux/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://posts.ryanplyler.dev/tags/tmux/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Installing PHP 7.4 for Nginx on Debian/Ubuntu Systems</title>
+      <link>https://posts.ryanplyler.dev/post/php74_debian_ubuntu/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://posts.ryanplyler.dev/post/php74_debian_ubuntu/</guid>
+      <description>In this tutorial we&amp;rsquo;ll be installing the latest php7.4 and php7.</description>
+    </item>
+    
+    <item>
       <title>SSH Tunneling</title>
       <link>https://posts.ryanplyler.dev/post/ssh_tunneling/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
@@ -24,6 +33,16 @@
       <guid>https://posts.ryanplyler.dev/post/ssh_tunneling/</guid>
       <description>SSH Tunneling (Port Fowarding) AKA, Poor-mans VPN Method
 Use Case</description>
+    </item>
+    
+    <item>
+      <title>Run Discord Bot in tmux</title>
+      <link>https://posts.ryanplyler.dev/post/discord_bot_tmux/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://posts.ryanplyler.dev/post/discord_bot_tmux/</guid>
+      <description>Log into server
+ssh root@zeta.sico.dev -p 22000Navigate to folder</description>
     </item>
     
     <item>

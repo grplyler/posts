@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on Ryan&#39;s Ramblings</title>
+    <link>https://posts.ryanplyler.dev/tags/php/</link>
+    <description>Recent content in php on Ryan&#39;s Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://posts.ryanplyler.dev/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing PHP 7.4 for Nginx on Debian/Ubuntu Systems</title>
+      <link>https://posts.ryanplyler.dev/post/php74_debian_ubuntu/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://posts.ryanplyler.dev/post/php74_debian_ubuntu/</guid>
+      <description>In this tutorial we&amp;rsquo;ll be installing the latest php7.4 and php7.</description>
+    </item>
+    
+  </channel>
+</rss>
