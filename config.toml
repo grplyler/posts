@@ -23,7 +23,7 @@ favicon = "favicons/"
 customCss = ["/css/custom.css"]
 customJs = []
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+#images = ["images/site-feature-image.png"]
 # Google Site Verification
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
