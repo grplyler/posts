@@ -42,7 +42,7 @@ Use Case</description>
       
       <guid>https://posts.ryanplyler.dev/post/discord_bot_tmux/</guid>
       <description>Log into server
-ssh root@zeta.sico.dev -p 22000Navigate to folder</description>
+ssh root@myserver.dev -p 22000Navigate to folder</description>
     </item>
     
   </channel>

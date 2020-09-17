@@ -18,7 +18,7 @@ categories = [
 **Log into server**
 
 ```
-ssh root@zeta.sico.dev -p 22000
+ssh root@myserver.dev -p 22000
 ```
 
 **Navigate to folder**
