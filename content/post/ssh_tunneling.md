@@ -13,7 +13,7 @@ tags = [
 categories = [
     "networking",
 ]
-#series = ["Themes Guide"]
+series = ["Themes Guide"]
 #aliases = ["migrate-from-jekyl"]
 +++
 

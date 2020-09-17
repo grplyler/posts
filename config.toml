@@ -1,7 +1,7 @@
 baseURL = "https://posts.ryanplyler.dev/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Ryan's Ramblings"
+title = "Ryan's Posts"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -20,7 +20,7 @@ description = "Ryan's technical ramblings, writeups, and other written shenaniga
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
-customCss = []
+customCss = ["/css/custom.css"]
 customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
@@ -68,6 +68,12 @@ url = "mailto:grplyler@liberty.edu"
   weight = 200
   identifier = "posts"
   url = "/post/"
+
+  [[menu.main]]
+  name = "Categories"
+  weight = 250
+  identifier = "categories"
+  url = "/categories/"
 
   [[menu.main]]
   name = "About"
