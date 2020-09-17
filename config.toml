@@ -1,7 +1,7 @@
 baseURL = "https://posts.ryanplyler.dev/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Ryan's Posts"
+title = "Ryan's Technical Blog"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,9 +14,9 @@ enableRobotsTXT = true
 googleAnalytics = "UA-60736898-9"
 
 [params]
-title = "Ryan Plyler"
+title = "Ryan's Technical Blog"
 author = "Ryan Plyler"
-description = "Ryan's technical ramblings, writeups, and other written shenanigans"
+description = "Tutorials, howotos, writeups, code snippets, stack reviews, and other written shenanigans"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
