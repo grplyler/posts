@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Ryan&#39;s Technical Blog</title>
+    <link>https://posts.ryanplyler.dev/categories/python/</link>
+    <description>Recent content in python on Ryan&#39;s Technical Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://posts.ryanplyler.dev/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to read and write CSV files in Python</title>
+      <link>https://posts.ryanplyler.dev/post/python_csv/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://posts.ryanplyler.dev/post/python_csv/</guid>
+      <description>Reading and writing CSV files it probably something you&amp;rsquo;ll do at least once or twice in your technical career.</description>
+    </item>
+    
+  </channel>
+</rss>
