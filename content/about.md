@@ -1,5 +1,5 @@
 +++
-title = "About Ryan Plyler"
+title = "About Me"
 description = "Fullstack Developer and Technology Consultant"
 date = "2020-09-18"
 aliases = ["about","about-hugo","contact"]

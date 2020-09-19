@@ -42,7 +42,7 @@ p {
 pre {
     padding: 16px;
     overflow: auto;
-    font-size: 100%;
+    font-size: 90%;
     line-height: 1.45;
     background-color: var(--pre-bg-color);
     border-radius: 6px;
@@ -64,6 +64,11 @@ p code {
 
     box-shadow: 0px 0px 4px 0px var(--pre-shadow-color);
 
+}
+
+.title {
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 /* code {
