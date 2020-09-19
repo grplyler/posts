@@ -11,7 +11,7 @@ categories = [
     "rants",
     "frontend"
 ]
-draft = false
+draft = true
 +++
 
 Can we _please_ use `html` as much as possible for website structure, and _then_
