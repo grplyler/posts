@@ -16,7 +16,7 @@ googleAnalytics = "UA-60736898-9"
 [params]
 title = "Ryan's Technical Blog"
 author = "Ryan Plyler"
-description = "Tutorials, howtos, writeups, code snippets, stack reviews, and other written shenanigans"
+description = "Tutorials, howtos, writeups, rants, code snippets, stack reviews, and other written shenanigans"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
